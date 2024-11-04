@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-schema.iml" filepath="$PROJECT_DIR$/springcloud-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-schema/springcloud8w982.iml" filepath="$PROJECT_DIR$/springboot-schema/springcloud8w982.iml" />
+    </modules>
+  </component>
+</project>
